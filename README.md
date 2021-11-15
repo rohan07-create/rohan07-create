@@ -19,20 +19,28 @@
 ---
 <br><br>
 
+## My Projects 📝
+
+[![s](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=adminstration-tool)](https://github.com/rohan07-create/adminstration-tool)
+[![s](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=Django-docker-postgres-gunicorn-nginx)](https://github.com/rohan07-create/Django-docker-postgres-gunicorn-nginx )
+[![s](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=Todo-app-docker)](https://github.com/rohan07-create/Todo-app-docker)<br><br><br>
+
+---
+
+<br><br>
+
 # Connect Me On 📫
 
   <div align="center">
   <a href="mailto:rohanchourasiya07@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logoColor=white&logo=gmail"></a>&nbsp&nbsp
   <a href="linkedin.com/in/rohan-chourasiya"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin">&nbsp&nbsp
   </a>
-  <a href="github.com/rohan07-create"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logoColor=white&logo=github"></a><br><br><br>
+  <a href="github.com/rohan07-create"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logoColor=white&logo=github"></a><br><br><br> <img src="https://github-readme-stats.vercel.app/api?username=rohan07-create&theme=blue" width="420"> <img src="https://s8.gifyu.com/images/ezgif.com-gif-maker31b523f0eb0843d2.gif" align="right" height="190" width="370"> 
   </div>
- <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rohan07-create&theme=blue"> <img src="https://s8.gifyu.com/images/ezgif.com-gif-maker31b523f0eb0843d2.gif" align="right" height="200" width="370"> 
 
- </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=rohan07-create&theme=blue"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 
+<br><br><br>
 
 ***
 
