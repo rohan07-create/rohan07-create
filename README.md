@@ -21,7 +21,9 @@
 
 ## My Projects 📝
 
-<br><br><br>
+[![po](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=adminstration-tool)](https://github.com/rohan07-create/adminstration-tool)
+[![pw](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=Todo-app-docker)](https://github.com/rohan07-create/Todo-app-docker)
+[![pq](https://github-readme-stats.vercel.app/api/pin/?username=rohan07-create&repo=Django-docker-postgres-gunicorn-nginx)](https://github.com/rohan07-create/Django-docker-postgres-gunicorn-nginx)<br><br><br>
 
 ---
 
